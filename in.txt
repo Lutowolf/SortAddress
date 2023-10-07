@@ -1,0 +1,21 @@
+5
+Moskow
+Stroitelei st.
+34
+12
+Novokuzneck
+Nauki st.
+5
+16
+Omsk
+Pushkin st.
+2
+13
+Moskow
+Arbat st.
+4
+1
+Novosibirsk
+Mira st.
+85
+64
